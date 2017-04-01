@@ -1,7 +1,9 @@
 //U.I.
 
 var first = function(arguement) {
-  return false;
+  document.getElementById("trns-form").reset();
+  
+
 };
 
 
